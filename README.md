@@ -8,6 +8,6 @@ First, open Google (with the internet turned off) and bring up the dinosaur game
 
 
 Watch the tutorial on YouTube:
-https://www.youtube.com/@snake-o8d
+https://youtu.be/62T1jmnsqzc
 
 If you found this project useful, consider giving it a star ⭐
